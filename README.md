@@ -36,9 +36,10 @@ The workflow couldn’t be any simpler:
 - Radu - Frontend 🌐([@styro457](https://github.com/Styro457))
 - Niklas - Backend ⚙️([@nainkristy](https://github.com/nainkristy))
 
-## Additional Info
+## Additional Info 🔮
 - Separate [Backend](https://github.com/orangasus/Hack-for-Humanity-Backend) and [Frontend](https://github.com/Styro457/hack-for-humanity-frontend) repositories
 - Amazing [Mockups](https://www.figma.com/proto/zXcZVpaxPUDF6GXTKOPgmX/Hack-For-Humanity-2025-Mockup?node-id=2001-1850&p=f&t=xBN2Jjkbr4RCX0aj-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2001%3A1850&show-proto-sidebar=1) and [Design System](./UnInsight-Design-System.pdf) by Aura
+- Some [Research](./Metrics-Research) behind the Metrics
 
 
 
