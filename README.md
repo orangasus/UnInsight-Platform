@@ -2,7 +2,7 @@
 An anonymous feedback platform for university courses, developed during a hackathon (Hack for Humanity 2025)
 
 ## The Problem 🧩
-Imagine how useful it would be to have a website where students could freely share their thoughts and experience related to courses they took
+Imagine how useful it would be to have a website where students could freely share their thoughts and experiences related to courses they took
 
 Whether they want to tell others how amazing the course was, or warn them about potential difficulties, that platform would be the right place to do that
 Well, good news is you don't have to imagine anymore!
