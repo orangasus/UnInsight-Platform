@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SchibstedGrotesk';
+    src: url('../fonts/SchibstedGrotesk.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+}

@@ -1,0 +1,33 @@
+:root {
+    --p-card-background: RED;
+}
+
+.auth.panel {
+    padding: 2rem;
+    width: 30rem;
+}
+
+.auth.input {
+    width: 100%;
+}
+
+.auth.element {
+    margin: 1rem 0;
+}
+
+.auth.submit {
+    margin: 2rem 0;
+    width: 100%;
+}
+
+.p-card-footer {
+    font-size: small;
+    margin-top: 1rem;
+}
+
+.p-card-header {
+    font-size: 2rem;
+    align-content: center;
+    font-weight: bolder;
+    margin: 2rem 0;
+}

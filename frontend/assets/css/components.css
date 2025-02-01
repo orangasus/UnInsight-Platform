@@ -1,0 +1,104 @@
+.container {
+    padding: 16px 16px;
+    background: white;
+    border: rgba(217, 217, 217, 1) 1px solid;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 8px;
+}
+
+.content {
+    flex-shrink: 0;
+    white-space: nowrap;
+    flex-basis: auto;
+}
+
+.columns {
+    display: flex;
+    width: 100%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: left;
+}
+
+.cright {
+    justify-items: flex-end;
+    align-items: flex-end;
+    justify-content: flex-end;
+    align-content: flex-end;
+}
+
+.texticon {
+    margin: 0px 8px;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+}
+
+.small-icon {
+    width: 18px;
+    height: 18px;
+}
+
+.center {
+    text-align: center;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.thirds {
+    width: 33%;
+}
+
+.half {
+    width: 50%;
+    text-align: left;
+}
+
+.row {
+    align-self: end;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 0 100px;
+    justify-content: center;
+    align-content: center;
+}
+
+.grid-item {
+    flex: 1 1 35%;
+    max-width: 620px;
+}
+
+@media (max-width: 768px) {
+    .grid-item {
+        flex: 1 1 100%;
+    }
+}
+
+.first-elem {
+    margin-top: 120px;
+}
+
+@media (max-width: 768px) {
+    .stars-img {
+        width: 200px;
+        height: auto;
+    }
+
+    .column {
+        gap: 0.1rem;
+    }
+}

@@ -1,0 +1,59 @@
+:root {
+    --p-button-primary-background: var(--primary);
+    --p-button-primary-color: var(--accent) !important;
+    --p-button-primary-border-color: var(--primary);
+    --p-button-primary-hover-background: var(--primary-hover);
+    --p-button-primary-hover-border-color: var(--primary-hover);
+    --p-button-primary-hover-color: var(--accent) !important;
+    --p-button-primary-active-background: var(--primary-focus);
+    --p-button-primary-active-border-color: var(--primary-focus);
+    --p-button-primary-active-color: var(--accent) !important;
+
+    --p-button-secondary-background: var(--background) !important;
+    --p-button-secondary-color: var(--primary) !important;
+    --p-button-secondary-border-color: var(--primary) !important;
+    --p-button-secondary-hover-background: var(--background-hover) !important;
+    --p-button-secondary-hover-border-color: var(--primary-hover) !important;
+    --p-button-secondary-hover-color: var(--primary-hover) !important;
+    --p-button-secondary-active-background: var(--background-focus) !important;
+    --p-button-secondary-active-border-color: var(--primary-focus) !important;
+    --p-button-secondary-active-color: var(--primary-focus) !important;
+    --p-menubar-item-focus-background: var(--background) !important;
+    --p-menubar-item-active-background: var(--background) !important;
+
+    --p-menubar-background: var(--background);
+
+    --p-select-background: var(--background);
+    --p-select-border-color: var(--primary);
+    --p-select-focus-border-color: var(--primary-hover);
+    --p-select-hover-border-color: var(--primary-hover);
+    --p-select-focus-background: var(--background-hover);
+    --p-select-focus-color: var(--primary-hover);
+    --p-select-filled-background: var(--primary);
+    --p-select-option-selected-background: var(--primary) !important;
+    --p-select-option-selected-color: var(--accent) !important;
+
+    --p-accordion-content-background: none;
+    --p-accordion-header-background: var(--background) !important;
+}
+
+.p-button-label {
+    font-weight: 600;
+}
+
+.p-select-option.p-select-option-selected {
+    background-color: var(--primary) !important;
+    color: var(--accent) !important;
+}
+
+/*.main.p-menubar-root-list {*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    gap: 48px;*/
+/*    justify-content: center; !* Centers items inside *!*/
+/*}*/
+
+.p-accordion {
+    font-size: var(--subtitle-size);
+    text-align: left;
+}
